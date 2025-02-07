@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+This organization is dedicated exclusively to storing all projects developed as part of my Professional Aptitude Project (PAP). The PAP aims to integrate and apply the knowledge acquired throughout my training. Each project represents an important milestone in my learning process and in the development of practical skills aimed at my professional career.
 
-**Here are some ideas to get you started:**
+All the projects presented here were created with the aim of demonstrating my technical capacity, creativity and problem solving, using tools, methodologies and good practices widely recognized in the market.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you are interested in a specific project or want to know more about the development approach, don't hesitate to get in touch.
